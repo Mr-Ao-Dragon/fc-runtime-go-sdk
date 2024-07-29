@@ -1,4 +1,4 @@
-module github.com/aliyun/fc-runtime-go-sdk
+module github.com/Mr-Ao-Dragon/fc-runtime-go-sdk
 
 go 1.16
 
